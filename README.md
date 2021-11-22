@@ -1,7 +1,7 @@
 # Curso profesional de Git y GitHub
 
 ## WARNING!
-### Este README.md es una copia exacta de el de  [Johan Mosquera](https://github.com/jocode/git-github-pro)
+### Este README.md es una copia exacta de el resumen de  [Johan Mosquera](https://github.com/jocode/git-github-pro)
 
 ## Introducción a Git
 
